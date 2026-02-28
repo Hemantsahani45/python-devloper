@@ -1,0 +1,68 @@
+2026-02-28 11:07:45,136 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:07:45,138 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:07:45,168 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:07:45,168 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:12:41,263 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:12:41,265 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:12:41,280 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:12:41,280 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:14:30,378 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:14:30,379 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:14:30,406 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:14:30,406 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:15:26,273 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:15:26,274 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:15:26,292 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:15:26,292 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:15:50,653 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:15:50,654 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:15:50,669 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:15:50,670 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:28:05,522 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:28:05,523 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:28:05,540 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:28:05,540 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:28:42,612 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:28:42,613 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:28:42,631 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:28:42,631 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:32:41,162 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:32:41,163 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:32:41,178 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:32:41,178 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:37:04,300 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:37:04,303 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:37:04,321 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:37:04,321 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:40:46,193 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:40:46,194 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:40:46,209 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:40:46,209 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:46:15,927 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:46:15,928 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:46:15,944 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:46:15,944 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 11:46:22,811 - INFO - ========== JOB STARTED ==========
+2026-02-28 11:46:22,812 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 11:46:22,829 - ERROR - Job failed: Missing required column: close
+2026-02-28 11:46:22,829 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 12:25:06,382 - INFO - ========== JOB STARTED ==========
+2026-02-28 12:25:06,384 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 12:25:06,400 - ERROR - Job failed: Missing required column: close
+2026-02-28 12:25:06,400 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 13:59:19,198 - INFO - ========== JOB STARTED ==========
+2026-02-28 13:59:19,207 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 13:59:19,230 - ERROR - Job failed: Missing required column: close
+2026-02-28 13:59:19,230 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 14:08:56,458 - INFO - ========== JOB STARTED ==========
+2026-02-28 14:08:56,459 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 14:08:56,475 - ERROR - Job failed: Missing required column: close
+2026-02-28 14:08:56,475 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 14:09:34,501 - INFO - ========== JOB STARTED ==========
+2026-02-28 14:09:34,502 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 14:09:34,520 - ERROR - Job failed: Missing required column: close
+2026-02-28 14:09:34,520 - INFO - ========== JOB ENDED WITH ERROR ==========
+2026-02-28 14:49:55,896 - INFO - ========== JOB STARTED ==========
+2026-02-28 14:49:55,897 - INFO - Config validated: seed=42, window=5, version=v1
+2026-02-28 14:49:55,917 - ERROR - Job failed: Missing required column: close
+2026-02-28 14:49:55,917 - INFO - ========== JOB ENDED WITH ERROR ==========
